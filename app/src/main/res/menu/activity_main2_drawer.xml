@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_app"
+            android:icon="@drawable/ic_menu_app"
+            android:title="@string/menu_my_app" />
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/ic_menu_notification"
+            android:title="@string/menu_notifications" />
+        <item
+            android:id="@+id/nav_play_pass"
+            android:icon="@drawable/ic_menu_recipt"
+            android:title="@string/menu_play_pass" />
+        <item
+            android:id="@+id/nav_play_points"
+            android:icon="@drawable/ic_menu_dot"
+            android:title="@string/menu_play_points" />
+        <item
+            android:id="@+id/nav_subscriptions"
+            android:icon="@drawable/ic_menu_rotate"
+            android:title="@string/menu_subscriptions" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@drawable/ic_menu_wishlist"
+            android:title="@string/menu_wishlist" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_account" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_payment_methods" />
+        </menu>
+    </item>
+
+</menu>

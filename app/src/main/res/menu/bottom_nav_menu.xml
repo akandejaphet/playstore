@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/footer_navigation_one"
+        android:icon="@drawable/ic_gamepad_black"
+        android:onClick="gamesMenuClick"
+        android:title="@string/footer_one" />
+
+    <item
+        android:id="@+id/footer_navigation_two"
+        android:icon="@drawable/ic_apps_black"
+        android:onClick="appsMenuClick"
+        android:title="@string/footer_two" />
+
+    <item
+        android:id="@+id/footer_navigation_three"
+        android:icon="@drawable/ic_ticket_black"
+        android:onClick="moviesMenuClick"
+        android:title="@string/footer_three" />
+
+    <item
+        android:id="@+id/footer_navigation_four"
+        android:icon="@drawable/ic_bookbag_black"
+        android:onClick="booksMenuClick"
+        android:title="@string/footer_four" />
+
+</menu>

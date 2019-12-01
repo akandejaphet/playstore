@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PlayStore</string>
+    <string name="search_bar_title">Search for apps \u0026 games</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Akande Japhet</string>
+    <string name="nav_header_subtitle">akandejaphet@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu -->
+    <string name="menu_my_app">My apps \u0026 games</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_play_pass">Play Pass</string>
+    <string name="menu_play_points">Play Points</string>
+    <string name="menu_subscriptions">Subscriptions</string>
+    <string name="menu_wishlist">Wishlist</string>
+
+    <string name="menu_account">Account</string>
+    <string name="menu_payment_methods">Payment methods</string>
+    <string name="menu_play_protect">Play Protect</string>
+    <string name="menu_settings">Settings</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--Footer-->
+    <string name="footer_one">Games</string>
+    <string name="footer_two">Apps</string>
+    <string name="footer_three">Movies \u0026 Tv</string>
+    <string name="footer_four">Books</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
